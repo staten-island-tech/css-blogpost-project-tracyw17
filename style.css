@@ -1,6 +1,10 @@
-body {
-   background-color:#D44D5C;
+*{ 
+   text-align: center;
+   color: white;
    font-family: font-family: 'Crimson Text', serif;
+
 }
 
-/* STYLE TEXT */
+body {
+   background-color:#D44D5C;
+}
