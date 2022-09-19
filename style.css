@@ -1,10 +1,29 @@
 *{ 
    text-align: center;
    color: white;
-   font-family: font-family: 'Crimson Text', serif;
-
+   font-family: 'Baloo 2', cursive;
 }
 
 body {
-   background-color:#D44D5C;
+   background-color:#f48498;
+
+}
+
+img{
+   width: 25%;
+   border-radius: 10px;
+}
+
+.header {
+   background-color: #69152a;
+   border-radius: 10px;
+   margin: 50px;
+   
+}
+
+.text {
+   background-color: #69152a;
+   border-radius: 10px;
+   margin: 50px;
+
 }
